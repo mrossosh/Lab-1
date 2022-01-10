@@ -1,1 +1,5 @@
 "# Lab-1" 
+ ANS1 = The <!DOCTYPE html> declaration is a an HTML tag that is responsible for informing the vistor's browser that the document being renderd is an HTML document.
+ ANS2 = Changing the title to my name changed the tab title that is displayed on top to my name.
+ ANS3 = html tags begin with a opening tag such as <p> and end with a closing tag </p> which tells the browser under whatproperties to render each section of the webpage. The browser reads top to bottom and left to right hence the order of opening and closing tags.
+ ANS4.1 = The changes I have made disappeared when I refreshed the page since altering properties using inspect element only affects the content displayd on the browser and not the source "html" file. Refreshing the page reloads the page based on the original source file and thus erases all changes mad by the temporary inspect element method.  
